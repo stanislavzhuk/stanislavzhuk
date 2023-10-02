@@ -20,25 +20,25 @@ I'm a Full Stack Developer with skills in HTML, CSS, JavaScript, React, and Node
 ### Languages, Frameworks, and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,svg,js,react,redux,nodejs,mongodb,postman,vscode,webpack,git,github,bash,netlify,figma,stackoverflow" alt="skills logos" /> <br>
+   <img src="https://skillicons.dev/icons?i=html,css,sass,svg,js,react,redux,nodejs,mongodb,postman,vscode,webpack,git,github,bash,netlify,figma,stackoverflow" alt="skills logos" /> <br>
 </p>
 
 ### Actively Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,docker,mysql,bootstrap,materialui,vite" /> <br>
+   <img src="https://skillicons.dev/icons?i=ts,docker,mysql,bootstrap,materialui,vite" /> <br>
 </p>
 
 ### Planning to Learn
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=gitlab,firebase,angular,vue,heroku,nestjs,nextjs," alt="skills logos" /> <br>
+   <img src="https://skillicons.dev/icons?i=angular,vue,nestjs,nextjs,firebase,gitlab,heroku," alt="skills logos" /> <br>
 </p>
 
 ## ✉️ Contacts
 
-<p align="center" style="margin: 40px">
-  <img alt="Code Wars" width="300px" src="https://www.codewars.com/users/stanislavzhuk/badges/large" />
+<p align="center">
+  <img alt="Code Wars" width="350px" src="https://www.codewars.com/users/stanislavzhuk/badges/large" />
 </p>
 
 <p align='center'>
